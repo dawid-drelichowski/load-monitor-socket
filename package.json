@@ -1,0 +1,15 @@
+{
+  "name": "load-monitor-socket",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "socket.js",
+  "engines": {
+    "node": ">= 14.15.5"
+  },
+  "scripts": {
+    "start": "node socket.js"
+  },
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}

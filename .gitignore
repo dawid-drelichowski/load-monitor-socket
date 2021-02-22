@@ -1,0 +1,9 @@
+/.idea/
+
+/.yarn/*
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+/.pnp.*
+
+/node_modules/
