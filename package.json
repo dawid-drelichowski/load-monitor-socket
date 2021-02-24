@@ -1,6 +1,6 @@
 {
   "name": "load-monitor-socket",
-  "version": "0.0.1",
+  "version": "0.5.0",
   "type": "module",
   "main": "socket.js",
   "engines": {

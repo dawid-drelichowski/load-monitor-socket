@@ -8,10 +8,6 @@ const server = new WebSocket.Server({ port: config.serverPort });
 const actionsHandler = new ActionsHandler(LoadMonitor, logger);
 
 server.on('connection', socket => {
-  logger(`Connection started at ${new Date()}`);
+  logger(`New connection started at ${new Date()}`);
   actionsHandler.handle(socket);
 });
-
-server.on('close', () => {
-  logger(`Connection ended at ${new Date()}`);
-})
