@@ -1,5 +1,6 @@
 {
   "name": "load-monitor-socket",
+  "description": "WebSocket server which emits an average CPU load on Unix",
   "version": "0.5.0",
   "type": "module",
   "main": "socket.js",
