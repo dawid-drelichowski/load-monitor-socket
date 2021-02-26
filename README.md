@@ -1,6 +1,7 @@
 # Load monitor WebSocket server
 
 WebSocket server which emits an average CPU load on Unix.
+Demo version available on `wss://load-monitor.ey.r.appspot.com/`
 
 ## Requirements
 
