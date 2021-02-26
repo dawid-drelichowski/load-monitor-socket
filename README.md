@@ -31,6 +31,8 @@ npm start
 This is a very basic implementation of socket server, it should be improved a bit.
 What is missing?
 
+- [ ] Better error handling
+- [ ] Better logging
 - [ ] Unit tests
 - [ ] E2E tests
 - [ ] Security audit or audit tool(s) usage
