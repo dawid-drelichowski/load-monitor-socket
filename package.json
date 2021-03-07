@@ -10,16 +10,21 @@
     "node": ">= 14.15.5"
   },
   "scripts": {
-    "start": "node socket.js"
+    "start": "node socket.js",
+    "lint": "eslint ./"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dawid-drelichowski/load-monitor-socket.git"
-  },"bugs": {
+  },
+  "bugs": {
     "url": "https://github.com/dawid-drelichowski/load-monitor-socket/issues"
   },
   "homepage": "https://github.com/dawid-drelichowski/load-monitor-socket#readme",
   "dependencies": {
     "ws": "^7.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
   }
 }

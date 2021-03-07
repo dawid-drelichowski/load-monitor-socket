@@ -37,6 +37,6 @@ What is missing?
 - [ ] Unit tests
 - [ ] E2E tests
 - [ ] Security audit or audit tool(s) usage
-- [ ] Code linter and formatter
+- [ ] Code formatter
 - [ ] CI/CD pipeline
 - [ ] Git hooks for linting, formatting, etc.
