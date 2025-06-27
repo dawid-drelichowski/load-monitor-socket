@@ -1,3 +1,3 @@
 export const config = {
-  serverPort: 8080
-}
+  serverPort: 8080,
+};
