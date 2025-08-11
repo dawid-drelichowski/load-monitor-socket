@@ -4,7 +4,7 @@ WebSocket server which emits an average CPU load on Unix.
 
 ## Requirements
 
-- [Node.js](https://nodejs.org) (tested with version `22.17.0`) or [Deno](https://deno.land/)
+- [Node.js](https://nodejs.org) (tested with version `22.18.0`) or [Deno](https://deno.land/)
 - [NPM](https://www.npmjs.com/) (tested with version `10.9.2`) or [Yarn](https://yarnpkg.com/), [PNPM](https://pnpm.js.org/)
 
 ## Installation

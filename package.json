@@ -5,12 +5,13 @@
   "author": "Dawid Drelichowski",
   "license": "ISC",
   "type": "module",
-  "main": "socket.js",
+  "main": "index.js",
   "engines": {
     "node": ">= 14.15.5"
   },
   "scripts": {
-    "start": "node socket.js",
+    "start": "node index.js",
+    "test": "node index.test.js",
     "lint": "eslint .",
     "format": "prettier . --write"
   },
