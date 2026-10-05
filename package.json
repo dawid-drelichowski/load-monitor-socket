@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dawid-drelichowski/load-monitor-socket#readme",
   "dependencies": {
-    "ws": "^8.21.3"
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
